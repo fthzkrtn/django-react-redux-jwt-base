@@ -1,4 +1,4 @@
-Django==1.8.7
+Django==2.2.24
 django-extensions==1.6.1
 
 django-disposable-email-checker==1.2.1
